@@ -1,1 +1,1 @@
-“my second commit”
+echo My second readme
